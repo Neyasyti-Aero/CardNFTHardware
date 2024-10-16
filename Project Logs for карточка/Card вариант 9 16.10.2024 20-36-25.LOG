@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=LDO1-3
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=TYPE_-4
+Removed Pin From Net: NetName=GND Pin=TYPE_-5
+Removed Pin From Net: NetName=GND Pin=TYPE_-6
+Removed Pin From Net: NetName=GND Pin=TYPE_-7
+Removed Pin From Net: NetName=GND Pin=TYPE_-8
+Removed Pin From Net: NetName=GND Pin=TYPE_-9
+Removed Pin From Net: NetName=GND Pin=TYPE_-10
+Removed Pin From Net: NetName=GND Pin=TYPE_-11
+Removed Pin From Net: NetName=GND Pin=TYPE_-16
+Removed Pin From Net: NetName=GND Pin=TYPE_-21
+Change Footprint: Footprint Not Found XTAL_ABM7-8.000MHZ-8-R80-D2Y-T
+Added Component: Designator=HL8(LD0805)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL1_1 Pin=HL8-1
+Added Pin To Net: NetName=GND Pin=HL8-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R3-2
+Added Pin To Net: NetName=NetR1_2 Pin=TYPE_-8
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=LDO1-3
+Added Pin To Net: NetName=VCC Pin=TYPE_-4
+Added Pin To Net: NetName=VCC Pin=TYPE_-9
+Added Pin To Net: NetName=VCC Pin=TYPE_-16
+Added Pin To Net: NetName=VCC Pin=TYPE_-21
+Added Net: Name=VCC
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL8 Text
