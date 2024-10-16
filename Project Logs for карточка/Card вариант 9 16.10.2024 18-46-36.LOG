@@ -1,0 +1,46 @@
+Change Footprint: Footprint Not Found XTAL_ABM7-8.000MHZ-8-R80-D2Y-T
+Add Component: Footprint Not Found rpi_rp2040
+Added Component: Designator=U2(SON50P300X200X60-9N)
+Add component (AddParameter): Name = "Part Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Pin To Net: Unknown Pin: Pin U1-22
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U1-25
+Add Pin To Net: Unknown Pin: Pin U1-29
+Add Pin To Net: Unknown Pin: Pin U1-30
+Add Pin To Net: Unknown Pin: Pin U1-33
+Add Pin To Net: Unknown Pin: Pin U1-42
+Add Pin To Net: Unknown Pin: Pin U1-44
+Add Pin To Net: Unknown Pin: Pin U1-45
+Add Pin To Net: Unknown Pin: Pin U1-49
+Add Pin To Net: Unknown Pin: Pin U1-50
+Add Pin To Net: Unknown Pin: Pin U1-51
+Add Pin To Net: Unknown Pin: Pin U1-52
+Add Pin To Net: Unknown Pin: Pin U1-53
+Add Pin To Net: Unknown Pin: Pin U1-54
+Add Pin To Net: Unknown Pin: Pin U1-55
+Add Pin To Net: Unknown Pin: Pin U1-56
+Add Pin To Net: Unknown Pin: Pin U1-57
+Added Pin To Net: NetName=NetU1_56 Pin=U2-1
+Added Pin To Net: NetName=NetU1_55 Pin=U2-2
+Added Pin To Net: NetName=NetU1_54 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetU1_53 Pin=U2-5
+Added Pin To Net: NetName=NetU1_52 Pin=U2-6
+Added Pin To Net: NetName=NetU1_51 Pin=U2-7
+Added Pin To Net: NetName=3V3 Pin=U2-8
+Add Class Member: Failed to add class member : Component U1 RP2040
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component U2 WINBOND_W25X_QSPI_FLASH_USON

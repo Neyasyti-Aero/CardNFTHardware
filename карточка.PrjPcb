@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
@@ -49,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\Downloads\RPi-Pico-R3-PUBLIC-20200119\Imported RPI-PICO-R3-PUBLIC.PrjPcb\RPI-PICO-R3-PUBLIC_Library.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XTQCCDJQ
+
+[Document2]
 DocumentPath=Card вариант 8.1_15.04.2024.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBKFIQYM
 
-[Document2]
+[Document3]
 DocumentPath=Card вариант 8.2_15.04.2024.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,8 +100,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIUYSIMO
 
-[Document3]
-DocumentPath=Card вариант 8.3_15.04.2024.PcbDoc
+[Document4]
+DocumentPath=Card вариант 9.0_16_10.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -99,14 +117,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZQIDSQMZ
 
-[Document4]
-DocumentPath=карточка.SchDoc
+[Document5]
+DocumentPath=CardNFTHardware_based on RPi2040.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -116,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXTPWRIT
 
-[Document5]
+[Document6]
 DocumentPath=..\Card 3008\Библиотека\LQFP64.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=..\Card 3008\Библиотека\LQFP64.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document8]
 DocumentPath=..\Card 3008\Библиотека\PcbLib05_08.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECAKTWHH
 
-[Document8]
+[Document9]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Coil.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Connector BtoB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP LCD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Led.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Rotary Encoder.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP TO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document21]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Coil.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document24]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD DO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document25]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD General.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Leds.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -490,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD LQFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -507,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -524,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Resistor Variable.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -541,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD RUS IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document33]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD SMD-Series.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -592,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document34]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -609,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document35]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD SOD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD TQFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -660,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Transformer.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -675,9 +693,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RNPHTLLO
 
-[Document38]
+[Document39]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Button GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -694,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document40]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Capacitor GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -711,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Coil GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -728,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document42]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Comparators GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -745,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Connector GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -762,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Crystal GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -779,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document45]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\DC-DC Converter GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -796,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document46]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Digital Interfaces GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -813,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document47]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Diode GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -830,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document48]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Ethernet Controller GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document49]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Fuse GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -864,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document50]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\LCD GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -881,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document51]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Led GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -898,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document52]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Linear Regulator GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -915,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document53]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\MCU GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -932,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document54]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\OPA GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -949,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document55]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Optical GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -966,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document56]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Resistor GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -983,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document57]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Rotary Encoder GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1000,7 +1018,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document58]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Switch GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1017,7 +1035,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document59]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Transceiver_SoC GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1034,7 +1052,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document60]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Transformer GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1051,7 +1069,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document61]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Transistor GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1068,7 +1086,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document62]
 DocumentPath=PCB2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1290,134 +1308,138 @@ DocumentPath=Project Outputs for карточка\Card вариант 7.2 _ 7.03
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for карточка\PCB1-RectHoles.TXT
+DocumentPath=Project Outputs for карточка\Design Rule Check - Card вариант 9.html
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for карточка\PCB1-RoundHoles.TXT
+DocumentPath=Project Outputs for карточка\PCB1-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for карточка\PCB1-SquareHoles.TXT
+DocumentPath=Project Outputs for карточка\PCB1-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for карточка\PCB1.DRR
+DocumentPath=Project Outputs for карточка\PCB1-SquareHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for карточка\PCB1.EXTREP
+DocumentPath=Project Outputs for карточка\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for карточка\PCB1.GBL
+DocumentPath=Project Outputs for карточка\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for карточка\PCB1.GBO
+DocumentPath=Project Outputs for карточка\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for карточка\PCB1.GBP
+DocumentPath=Project Outputs for карточка\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for карточка\PCB1.GBS
+DocumentPath=Project Outputs for карточка\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for карточка\PCB1.GKO
+DocumentPath=Project Outputs for карточка\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for карточка\PCB1.GM1
+DocumentPath=Project Outputs for карточка\PCB1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for карточка\PCB1.GTL
+DocumentPath=Project Outputs for карточка\PCB1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for карточка\PCB1.GTO
+DocumentPath=Project Outputs for карточка\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for карточка\PCB1.GTP
+DocumentPath=Project Outputs for карточка\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for карточка\PCB1.GTS
+DocumentPath=Project Outputs for карточка\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for карточка\PCB1.LDP
+DocumentPath=Project Outputs for карточка\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for карточка\PCB1.REP
+DocumentPath=Project Outputs for карточка\PCB1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for карточка\PCB2-RectHoles.TXT
+DocumentPath=Project Outputs for карточка\PCB1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for карточка\PCB2-RoundHoles.TXT
+DocumentPath=Project Outputs for карточка\PCB2-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for карточка\PCB2-SquareHoles.TXT
+DocumentPath=Project Outputs for карточка\PCB2-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for карточка\PCB2.DRR
+DocumentPath=Project Outputs for карточка\PCB2-SquareHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for карточка\PCB2.EXTREP
+DocumentPath=Project Outputs for карточка\PCB2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for карточка\PCB2.GBL
+DocumentPath=Project Outputs for карточка\PCB2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for карточка\PCB2.GBO
+DocumentPath=Project Outputs for карточка\PCB2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for карточка\PCB2.GBP
+DocumentPath=Project Outputs for карточка\PCB2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for карточка\PCB2.GBS
+DocumentPath=Project Outputs for карточка\PCB2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for карточка\PCB2.GM1
+DocumentPath=Project Outputs for карточка\PCB2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for карточка\PCB2.GTL
+DocumentPath=Project Outputs for карточка\PCB2.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for карточка\PCB2.GTO
+DocumentPath=Project Outputs for карточка\PCB2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for карточка\PCB2.GTP
+DocumentPath=Project Outputs for карточка\PCB2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for карточка\PCB2.GTS
+DocumentPath=Project Outputs for карточка\PCB2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for карточка\PCB2.LDP
+DocumentPath=Project Outputs for карточка\PCB2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument84]
+DocumentPath=Project Outputs for карточка\PCB2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument85]
 DocumentPath=Project Outputs for карточка\PCB2.REP
 DItemRevisionGUID=
 
@@ -1600,48 +1622,42 @@ OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=PCBDrawing
-OutputName8=Draftsman
+OutputType8=PCBLIB Print
+OutputName8=PCBLIB Prints
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=PCBLIB Print
-OutputName9=PCBLIB Prints
+OutputType9=PDF3D
+OutputName9=PDF3D
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=PDF3D
-OutputName10=PDF3D
+OutputType10=PDF3D MBA
+OutputName10=PDF3D MBA
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
+OutputType11=Report Print
+OutputName11=Report Prints
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Report Print
-OutputName12=Report Prints
+OutputType12=Schematic Print
+OutputName12=Schematic Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Schematic Print
-OutputName13=Schematic Prints
+OutputType13=SimView Print
+OutputName13=SimView Prints
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=SimView Print
-OutputName14=SimView Prints
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1823,102 +1839,6 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Text Print
-OutputName2=Text Print
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Text Print
-OutputName3=Text Print
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Text Print
-OutputName4=Text Print
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Text Print
-OutputName5=Text Print
-OutputDocumentPath5=
-OutputVariantName5=
-OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType6=Text Print
-OutputName6=Text Print
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType7=Text Print
-OutputName7=Text Print
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=Text Print
-OutputName8=Text Print
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Text Print
-OutputName9=Text Print
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=Text Print
-OutputName10=Text Print
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Text Print
-OutputName11=Text Print
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Text Print
-OutputName12=Text Print
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Text Print
-OutputName13=Text Print
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=Text Print
-OutputName14=Text Print
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType15=Text Print
-OutputName15=Text Print
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType16=Text Print
-OutputName16=Text Print
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType17=Text Print
-OutputName17=Text Print
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -2162,6 +2082,24 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -2232,6 +2170,12 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -2353,6 +2297,7 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
@@ -2360,6 +2305,32 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
