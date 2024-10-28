@@ -1,0 +1,43 @@
+Added Component: Designator=HL11(LD0603)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Component: Designator=HL12(LD0603)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Component: Designator=HL13(LD0603)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Component: Designator=HL14(LD0603)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL1_1 Pin=HL11-1
+Added Pin To Net: NetName=GND Pin=HL11-2
+Added Pin To Net: NetName=NetHL1_1 Pin=HL12-1
+Added Pin To Net: NetName=GND Pin=HL12-2
+Added Pin To Net: NetName=NetHL1_1 Pin=HL13-1
+Added Pin To Net: NetName=GND Pin=HL13-2
+Added Pin To Net: NetName=NetHL1_1 Pin=HL14-1
+Added Pin To Net: NetName=GND Pin=HL14-2
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C2 100nF
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C4 Capacitor
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C6 1uF
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C7 100nF
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C9 100nF
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C13 22pF
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL1 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL2 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL4 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL6 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL9 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL10 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL11 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL12 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL13 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL14 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component Q1 S9013
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component R1 Resistor
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component R3 Resistor

@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q1-1
+Removed Pin From Net: NetName=3V3 Pin=Q1-3
+Removed Pin From Net: NetName=NetQ1_1 Pin=U1-29
+Change Component Comment : Designator=C9 Old Comment=100nF New Comment=1uF
+Change Component Comment : Designator=C10 Old Comment=100nF New Comment=1uF
+Change Component Designator: OldDesignator=C1 NewDesignator=C7
+Change Component Designator: OldDesignator=C2 NewDesignator=C14
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C13
+Change Component Designator: OldDesignator=C6 NewDesignator=C10
+Change Component Designator: OldDesignator=C7 NewDesignator=C1
+Change Component Designator: OldDesignator=C8 NewDesignator=C2
+Change Component Designator: OldDesignator=C9 NewDesignator=C3
+Change Component Designator: OldDesignator=C10 NewDesignator=C6
+Change Component Designator: OldDesignator=C11 NewDesignator=C8
+Change Component Designator: OldDesignator=C12 NewDesignator=C9
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=HL1 NewDesignator=HL2
+Change Component Designator: OldDesignator=HL2 NewDesignator=HL3
+Change Component Designator: OldDesignator=HL3 NewDesignator=HL4
+Change Component Designator: OldDesignator=HL4 NewDesignator=HL5
+Change Component Designator: OldDesignator=HL5 NewDesignator=HL6
+Change Component Designator: OldDesignator=HL6 NewDesignator=HL7
+Change Component Designator: OldDesignator=HL7 NewDesignator=HL8
+Change Component Designator: OldDesignator=HL9 NewDesignator=HL10
+Change Component Designator: OldDesignator=HL10 NewDesignator=HL11
+Change Component Designator: OldDesignator=HL11 NewDesignator=HL12
+Change Component Designator: OldDesignator=P NewDesignator=P1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=R1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=TYPE_ NewDesignator=TYPE_1
+Added Component: Designator=HL1(LD0805)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Component: Designator=HL9(LD0805)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Component: Designator=HL13(LD0805)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Component: Designator=HL14(LD0805)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=GND Pin=HL1-2
+Added Pin To Net: NetName=NetHL1_1 Pin=HL9-1
+Added Pin To Net: NetName=GND Pin=HL9-2
+Added Pin To Net: NetName=NetHL1_1 Pin=HL13-1
+Added Pin To Net: NetName=GND Pin=HL13-2
+Added Pin To Net: NetName=NetHL1_1 Pin=HL14-1
+Added Pin To Net: NetName=GND Pin=HL14-2
+Add Pin To Net: Unknown Pin: Pin HL15-1
+Add Pin To Net: Unknown Pin: Pin HL15-2
+Added Pin To Net: NetName=3V3 Pin=LCD_1-13
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetLCD_1_7 Pin=U1-7
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetP_2 New Net Name=NetP1_2
+Change Net Name : Old Net Name=NetP_3 New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR3_2
+Added Pin To Net: NetName=NetU1_29 Pin=U1-29
+Added Net: Name=NetU1_29
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C4 Capacitor
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C7 100nF
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C10 100nF
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C11 100nF
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C13 22pF
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component C14 22pF
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL1 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL2 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL4 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL6 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL8 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL9 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL10 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL12 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL13 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component HL14 Text
+Add Class Member: Failed to add class member : Component HL15 Text
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component P1 Header 4
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component Q1 S9013
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component R2 Resistor
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component R4 Resistor
+Added Member To Class: ClassName=CardNFTHardware_based on RPi2040 Member=Component TYPE_1 TYPE-C_18.09

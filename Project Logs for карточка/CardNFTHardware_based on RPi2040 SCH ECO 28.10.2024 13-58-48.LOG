@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=HL1 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL3 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL4 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL5 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL6 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL7 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL8 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL9 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL10 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL11 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL12 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL13 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=HL14 Old Footprint=LD0805 New Footprint=LD0603
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL_ABM7-8.000MHZ-8-R80-D2Y-T New Footprint=NX5032GA
