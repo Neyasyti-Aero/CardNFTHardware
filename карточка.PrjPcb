@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZQIDSQMZ
 
 [Document5]
-DocumentPath=CardNFTHardware_based on RPi2040.SchDoc
+DocumentPath=..\..\..\Desktop\Pambox\CardNFTHardware_based on stm32f722.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -710,7 +710,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HIUFSUIH
 
 [Document40]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Capacitor GOST.SchLib
@@ -727,7 +727,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GMDFHXJS
 
 [Document41]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Coil GOST.SchLib
@@ -744,7 +744,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VWEBIMYA
 
 [Document42]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Comparators GOST.SchLib
@@ -761,7 +761,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XPMMPXOX
 
 [Document43]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Connector GOST.SchLib
@@ -778,7 +778,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FQHBWPAR
 
 [Document44]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Crystal GOST.SchLib
@@ -795,7 +795,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CNKJABSH
 
 [Document45]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\DC-DC Converter GOST.SchLib
@@ -812,7 +812,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HHNVFALQ
 
 [Document46]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Digital Interfaces GOST.SchLib
@@ -829,7 +829,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MREFXFDG
 
 [Document47]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Diode GOST.SchLib
@@ -846,7 +846,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DHUGROLN
 
 [Document48]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Ethernet Controller GOST.SchLib
@@ -863,7 +863,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CEPSLERO
 
 [Document49]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Fuse GOST.SchLib
@@ -880,7 +880,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RVTUAHJE
 
 [Document50]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\LCD GOST.SchLib
@@ -897,7 +897,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WXWJIYYN
 
 [Document51]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Led GOST.SchLib
@@ -914,7 +914,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WARMTQDS
 
 [Document52]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Linear Regulator GOST.SchLib
@@ -931,7 +931,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GAXIPRIU
 
 [Document53]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\MCU GOST.SchLib
@@ -948,7 +948,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XCFKRNRV
 
 [Document54]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\OPA GOST.SchLib
@@ -965,7 +965,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FXQYCMGJ
 
 [Document55]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Optical GOST.SchLib
@@ -982,7 +982,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XKISNWWB
 
 [Document56]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Resistor GOST.SchLib
@@ -999,7 +999,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EUCXVTGH
 
 [Document57]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Rotary Encoder GOST.SchLib
@@ -1016,7 +1016,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KISFRNKA
 
 [Document58]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Switch GOST.SchLib
@@ -1033,7 +1033,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CLUQXTDV
 
 [Document59]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Transceiver_SoC GOST.SchLib
@@ -1050,7 +1050,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IMCWNXFQ
 
 [Document60]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Transformer GOST.SchLib
@@ -1067,7 +1067,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JIGOLTFH
 
 [Document61]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Transistor GOST.SchLib
@@ -1084,7 +1084,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VCQYYHML
 
 [Document62]
 DocumentPath=PCB2.PcbDoc
@@ -1153,6 +1153,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WZCOUSYU
+
+[Document66]
+DocumentPath=карточка.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for карточка\Card вариант 5 _ 21.01.2024-RectHoles.TXT
@@ -1508,6 +1525,44 @@ OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
@@ -1634,7 +1689,7 @@ OutputDefault1=0
 Name=Documentation Outputs
 Description=
 TargetPrinter=HP LaserJet MFP M227-M231
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
@@ -1706,7 +1761,9 @@ OutputName12=Schematic Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.73|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\SerezhaK\Documents\GitHub\CardNFTHardware\CardNFTHardware_based on RPi2040.SchDoc
 OutputType13=SimView Print
 OutputName13=SimView Prints
 OutputDocumentPath13=
