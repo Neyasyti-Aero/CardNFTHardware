@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetR5_2 Pin=U?-38
+Added Component: Designator=C11(C0603)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=HL6(LD0603)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetHL1_1 Pin=HL6-1
+Added Pin To Net: NetName=GND Pin=HL6-2
+Added Pin To Net: NetName=NetR5_2 Pin=U?-50
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component C11 4U7
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component C11 4U7
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component C11 4U7
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component C11 4U7
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component C11 100nF
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component C11 4U7
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component HL6 Text
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component HL11 Text
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component HL12 Text
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component HL13 Text
+Added Member To Class: ClassName=CardNFTHardware_based on stm32f722 Member=Component HL14 Text

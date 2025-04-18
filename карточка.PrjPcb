@@ -1104,7 +1104,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JMURCRAC
 
 [Document63]
-DocumentPath=Copy of Card вариант 9.2_03_11_RUSST.PcbDoc
+DocumentPath=Copy of Card вариант 10.0_04_18_RUSST.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1384,134 +1384,138 @@ DocumentPath=Project Outputs for карточка\Design Rule Check - Copy of Ca
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for карточка\PCB1-RectHoles.TXT
+DocumentPath=Project Outputs for карточка\Design Rule Check - Copy of Card вариант 10.html
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for карточка\PCB1-RoundHoles.TXT
+DocumentPath=Project Outputs for карточка\PCB1-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for карточка\PCB1-SquareHoles.TXT
+DocumentPath=Project Outputs for карточка\PCB1-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for карточка\PCB1.DRR
+DocumentPath=Project Outputs for карточка\PCB1-SquareHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for карточка\PCB1.EXTREP
+DocumentPath=Project Outputs for карточка\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for карточка\PCB1.GBL
+DocumentPath=Project Outputs for карточка\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for карточка\PCB1.GBO
+DocumentPath=Project Outputs for карточка\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for карточка\PCB1.GBP
+DocumentPath=Project Outputs for карточка\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for карточка\PCB1.GBS
+DocumentPath=Project Outputs for карточка\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for карточка\PCB1.GKO
+DocumentPath=Project Outputs for карточка\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for карточка\PCB1.GM1
+DocumentPath=Project Outputs for карточка\PCB1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for карточка\PCB1.GTL
+DocumentPath=Project Outputs for карточка\PCB1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for карточка\PCB1.GTO
+DocumentPath=Project Outputs for карточка\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for карточка\PCB1.GTP
+DocumentPath=Project Outputs for карточка\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for карточка\PCB1.GTS
+DocumentPath=Project Outputs for карточка\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for карточка\PCB1.LDP
+DocumentPath=Project Outputs for карточка\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for карточка\PCB1.REP
+DocumentPath=Project Outputs for карточка\PCB1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for карточка\PCB2-RectHoles.TXT
+DocumentPath=Project Outputs for карточка\PCB1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for карточка\PCB2-RoundHoles.TXT
+DocumentPath=Project Outputs for карточка\PCB2-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for карточка\PCB2-SquareHoles.TXT
+DocumentPath=Project Outputs for карточка\PCB2-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for карточка\PCB2.DRR
+DocumentPath=Project Outputs for карточка\PCB2-SquareHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for карточка\PCB2.EXTREP
+DocumentPath=Project Outputs for карточка\PCB2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for карточка\PCB2.GBL
+DocumentPath=Project Outputs for карточка\PCB2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for карточка\PCB2.GBO
+DocumentPath=Project Outputs for карточка\PCB2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for карточка\PCB2.GBP
+DocumentPath=Project Outputs for карточка\PCB2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for карточка\PCB2.GBS
+DocumentPath=Project Outputs for карточка\PCB2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for карточка\PCB2.GM1
+DocumentPath=Project Outputs for карточка\PCB2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for карточка\PCB2.GTL
+DocumentPath=Project Outputs for карточка\PCB2.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for карточка\PCB2.GTO
+DocumentPath=Project Outputs for карточка\PCB2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for карточка\PCB2.GTP
+DocumentPath=Project Outputs for карточка\PCB2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for карточка\PCB2.GTS
+DocumentPath=Project Outputs for карточка\PCB2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for карточка\PCB2.LDP
+DocumentPath=Project Outputs for карточка\PCB2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument86]
+DocumentPath=Project Outputs for карточка\PCB2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument87]
 DocumentPath=Project Outputs for карточка\PCB2.REP
 DItemRevisionGUID=
 
